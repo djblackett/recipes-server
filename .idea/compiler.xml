@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.16/6dc192c7f93ec1853f70d59d8a6dcf94eb42866/lombok-1.18.16.jar" />
+        </processorPath>
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.main" />
+        <module name="Recipes.util.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.main" />
+        <module name="Recipes.util.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
+        </processorPath>
+        <module name="Recipes.Recipes-task.test" />
+        <module name="Recipes.Recipes-task.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>

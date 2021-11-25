@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Don't be late again/Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Don't be late again/Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Don't be late again/Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Don't be late again/Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Don't be late again/Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Don't be late again/Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Is the date between the two other dates/Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Is the date between the two other dates/Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Is the date between the two other dates/Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Is the date between the two other dates/Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Is the date between the two other dates/Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Is the date between the two other dates/Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Theory/Recipes.Topics-Comparing_dates_and_time-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Theory/Recipes.Topics-Comparing_dates_and_time-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Theory/Recipes.Topics-Comparing_dates_and_time-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Theory/Recipes.Topics-Comparing_dates_and_time-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Theory/Recipes.Topics-Comparing_dates_and_time-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Comparing dates and time/Theory/Recipes.Topics-Comparing_dates_and_time-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.test.iml" />
+    </modules>
+  </component>
+</project>
