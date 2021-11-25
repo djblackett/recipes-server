@@ -1,9 +1,7 @@
 # recipes-server
 
-# recipes-with-spring
 
-
-A multi-user web service with Spring Boot that allows storing, retrieving, updating, and deleting recipes. 
+### A multi-user web service with Spring Boot that allows storing, retrieving, updating, and deleting recipes. 
 
 
 ## Examples
